@@ -20,9 +20,11 @@ Explain terms with no substitutes when introduced, e.g. "Duloxetine (a common an
 
 
 @Emil: research on related work (SOTA), report 
-@Andrei: finetune-mistral research
-@Andreiana: presentation
-@Talida: prompting/summarization, 
 
+@Andrei: finetune-mistral research
+
+@Andreiana: presentation
+
+@Talida: prompting/summarization, 
 
 Up for grabs: preparing dataset for finetuning, metrics (SARI, BLEU, ROUGE)
