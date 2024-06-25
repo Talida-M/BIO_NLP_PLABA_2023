@@ -18,7 +18,6 @@ Substitute medical jargon with common alternatives, e.g. orthoses with braces.
 Explain terms with no substitutes when introduced, e.g. "Duloxetine (a common antidepressant)."
 
 
-
 @Emil: research on related work (SOTA), report 
 
 @Andrei: finetune-mistral research
